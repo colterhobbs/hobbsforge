@@ -1,0 +1,38 @@
+baseURL = "https://hobbsalaska.com/"
+languageCode = "en-us"
+title = "Hobbs Tool & Forge"
+theme = "hextra"
+
+[params]
+description = "Practical tools. Forged by hand."
+displayUpdatedDate = false
+
+[params.theme]
+default = "dark"
+
+[menu]
+
+  [[menu.main]]
+  name = "Work"
+  pageRef = "/work"
+  weight = 1
+
+  [[menu.main]]
+  name = "Shop"
+  pageRef = "/shop"
+  weight = 2
+
+  [[menu.main]]
+  name = "Videos"
+  pageRef = "/videos"
+  weight = 3
+
+  [[menu.main]]
+  name = "About"
+  pageRef = "/about"
+  weight = 4
+
+  [[menu.main]]
+  name = "Contact"
+  pageRef = "/contact"
+  weight = 5
