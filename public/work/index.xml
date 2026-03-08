@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hobbs Tool &amp; Forge – Videos</title>
-    <link>http://localhost:44667/videos/</link>
-    <description>Recent content in Videos on Hobbs Tool &amp; Forge</description>
+    <title>Hobbs Tool &amp; Forge – Work</title>
+    <link>http://localhost:44667/work/</link>
+    <description>Recent content in Work on Hobbs Tool &amp; Forge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2025 Hobbs Tool &amp; Forge. All rights reserved.</copyright>
     
-	  <atom:link href="http://localhost:44667/videos/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:44667/work/index.xml" rel="self" type="application/rss+xml" />
     
     
       

@@ -1,12 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hobbs Tool &amp; Forge – Shop</title>
-    <link>http://localhost:1313/shop/</link>
+    <link>http://localhost:44667/shop/</link>
     <description>Recent content in Shop on Hobbs Tool &amp; Forge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>© 2025 Hobbs Tool &amp; Forge. All rights reserved.</copyright>
     
-	  <atom:link href="http://localhost:1313/shop/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:44667/shop/index.xml" rel="self" type="application/rss+xml" />
     
     
       

@@ -1,20 +1,30 @@
 ---
 title: "Videos"
-description: "Forging sessions and build videos."
+description: "Forging sessions and build videos from Hobbs Tool & Forge."
+toc: false
 ---
 
-New videos go up weekly (when the forge schedule allows).
+New videos go up regularly — forge schedule and Alaska weather permitting.
 
-### YouTube
+{{< callout type="warning" >}}
+  **Coming soon:** Replace the placeholder below with your actual YouTube channel URL and video IDs.
+{{< /callout >}}
 
-- Channel: https://www.youtube.com/@YOURCHANNEL
+{{< hextra/hero-button text="Subscribe on YouTube" link="https://www.youtube.com/@YOURCHANNEL" >}}
 
-### Latest Upload
+---
 
+## Latest Upload
+
+<!-- Replace VIDEO_ID_HERE with your actual YouTube video ID -->
 {{< youtube "VIDEO_ID_HERE" >}}
 
-### Playlists
+---
 
-- Tools
-- Knives
-- Shop Builds
+## Playlists
+
+{{< cards cols="3" >}}
+  {{< card title="Tools" subtitle="Punches, chisels, hardies, and shop tool builds." icon="cog" link="https://www.youtube.com/@YOURCHANNEL" >}}
+  {{< card title="Knives" subtitle="Blade forging, heat treating, and handle work." icon="lightning-bolt" link="https://www.youtube.com/@YOURCHANNEL" >}}
+  {{< card title="Shop Builds" subtitle="Jigs, fixtures, and equipment upgrades." icon="cube" link="https://www.youtube.com/@YOURCHANNEL" >}}
+{{< /cards >}}

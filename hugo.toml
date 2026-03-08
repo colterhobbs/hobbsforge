@@ -2,6 +2,11 @@ baseURL = "https://hobbsalaska.com/"
 languageCode = "en-us"
 title = "Hobbs Tool & Forge"
 theme = "hextra"
+copyright = "© 2025 Hobbs Tool & Forge. All rights reserved."
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
 description = "Practical tools. Forged by hand."
@@ -9,6 +14,17 @@ displayUpdatedDate = false
 
 [params.theme]
 default = "dark"
+
+[params.footer]
+displayPoweredBy = false
+displayCopyright = true
+
+[params.navbar]
+displayTitle = true
+disableSearch = false
+
+[params.page]
+width = "wide"
 
 [menu]
 
