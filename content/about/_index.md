@@ -1,10 +1,10 @@
 ---
 title: "About"
-description: "About Hobbs Tool & Forge"
+description: "About Hobbs Forgeworks"
 toc: false
 ---
 
-Hobbs Tool & Forge is a small garage blacksmith shop in Alaska, focused on practical tools, knives, and functional builds.
+Hobbs Forgeworks is a small garage blacksmith shop in Alaska, focused on practical tools, knives, and functional builds.
 
 This site (and the YouTube channel) documents the process — the work, the mistakes, and the improvements — without the noise.
 

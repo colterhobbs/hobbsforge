@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-description: "Get in touch with Hobbs Tool & Forge."
+description: "Get in touch with Hobbs Forgeworks."
 toc: false
 ---
 

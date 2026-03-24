@@ -1,6 +1,6 @@
 ---
 title: "Videos"
-description: "Forging sessions and build videos from Hobbs Tool & Forge."
+description: "Forging sessions and build videos from Hobbs Forgeworks."
 toc: false
 ---
 

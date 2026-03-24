@@ -1,6 +1,6 @@
 ---
 title: "Work"
-description: "Tools, knives, and builds from Hobbs Tool & Forge."
+description: "Tools, knives, and builds from Hobbs Forgeworks."
 toc: false
 ---
 

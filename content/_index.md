@@ -1,5 +1,5 @@
 ---
-title: "Hobbs Tool & Forge"
+title: "Hobbs Forgeworks"
 layout: hextra-home
 description: "Practical tools, knives, and shop builds—made in a small garage forge in Alaska."
 ---

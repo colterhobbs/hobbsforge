@@ -1,8 +1,8 @@
 baseURL = "https://hobbsalaska.com/"
 languageCode = "en-us"
-title = "Hobbs Tool & Forge"
+title = "Hobbs Forgeworks"
 theme = "hextra"
-copyright = "© 2025 Hobbs Tool & Forge. All rights reserved."
+copyright = "© 2025 Hobbs Forgeworks. All rights reserved."
 ignoreLogs = ['warning-goldmark-raw-html']
 
 [markup.goldmark.renderer]
